@@ -1,17 +1,11 @@
-# G2
+# Appunti di Geometria 2
+
+Si ringraziano vivamente i ragazzi che ci hanno preceduti. Questi appunti dovrebbero integrare quello che verrà fatto nell'anno accademico 2016-2017
 
 ## Turni
 
-* Bob
-* Jack
-* Marco Costa
-* Ale
-* Andre
-* Albe
-* Valerio
-* Begli
+Da definire
 
-Se convincete altra gente potete sempre aggiungerla in coda.
 
 ## Checklist
 
